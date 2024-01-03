@@ -1,5 +1,10 @@
 # HITSnDIFFs
-This repository provides an implementation of the HITSnDIFFS approach proposed in the ICDE 2024 paper *"HITSNDIFFS: From Truth Discovery to Ability Discovery by Recovering Matrices with the Consecutive Ones Property"* as well as implementations of competitors and corresponding experiments in the paper.
+
+[![Paper](http://img.shields.io/badge/paper-arxiv.2401.00013-blue.svg)](https://arxiv.org/abs/2401.00013)
+[![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
+
+
+This repository provides an implementation of the HITSnDIFFS approach proposed in the ICDE 2024 paper *"HITSNDIFFS: From Truth Discovery to Ability Discovery by Recovering Matrices with the Consecutive Ones Property"* [(arXiv:2401.00013 long version)](https://arxiv.org/abs/2401.00013) as well as implementations of competitors and corresponding experiments in the paper.
 
 ## Programming Language and Libraries
 The source code is written in Python, tested on Python version 3.8 or 3.10.
@@ -21,3 +26,16 @@ This folder contains the six real-world datasets we used in the experiments. The
 The experimental result can be reproduced by running the Jupyter notebook `figures.ipynb`. The loading indicator to be True/False indicates whether the notebook directly reads the executed experimental result or re-runs the experiment. Note that re-running each experiment on the synthetic datasets can take up to several hours.
 
 Various intermediate results are provided including the generated synthetic data (`experiments/synthetic`), the user abilities returned by different approaches for each run of the experiments (`experiments/ability`), the experimental result (`experiments/result`) and all figures (`experiments/figures`).
+
+## License
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+## Contributors
+- [Zixuan Chen](https://www.khoury.northeastern.edu/people/zixuan-chen/)
+- [Wolfgang Gatterbauer](http://gatterbauer.name)
+
+
+For any questions on `methods`, `experiments/`, `datasets/` and reproducibility of the experiments, please contact [Zixuan](https://www.khoury.northeastern.edu/people/zixuan-chen/).
+For any clarification, comments, or suggestions on the IRT methods in `IRT/` please contact [Wolfgang](http://gatterbauer.name).
