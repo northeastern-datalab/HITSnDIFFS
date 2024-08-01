@@ -20,18 +20,18 @@ To model items and their labels in a principled way, we draw upon Item Response 
 [Video on Youtube (15min)](https://www.youtube.com/watch?v=CLLRDWEKAUQ&list=PL_72ERGKF6DQ7dKQoBZ90WVR1ndDklOH1) 
 
 <kbd>
-<a href="https://www.youtube.com/watch?v=CLLRDWEKAUQ&list=PL_72ERGKF6DQ7dKQoBZ90WVR1ndDklOH1"><img src="figs/HITSnDIFFs-Youtube.jpeg" alt="drawing" style="width:600px; max-width: 100%; border: 1px solid #000;"/></a>
+<a href="https://www.youtube.com/watch?v=CLLRDWEKAUQ&list=PL_72ERGKF6DQ7dKQoBZ90WVR1ndDklOH1"><img src="figs/HITSnDIFFs-Youtube.jpeg" alt="drawing" style="width:600px; max-width: 100%;"/></a>
 </kbd>
 
 
 Excerpts:
 
-<table><tr><td>
+<kbd>
 <img src="figs/Ability-discovery.jpeg" alt="drawing" style="width:600px; max-width: 100%;"/>
-</td></tr></table>
+</kbd>
 
 <kbd>
-<img src="figs/HITSnDIFFs.jpeg" alt="drawing" style="width:600px; max-width: 100%; border: 2px solid #000;"/>
+<img src="figs/HITSnDIFFs.jpeg" alt="drawing" style="width:600px; max-width: 100%;"/>
 </kbd>
 
 
