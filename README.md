@@ -1,11 +1,11 @@
 # HITSnDIFFs
 
 [![ICDE](https://img.shields.io/badge/ICDE-2024-blue.svg)](https://doi.org/10.1109/ICDE60146.2024.00025)
-[![Paper](http://img.shields.io/badge/full-paper-arxiv.2401.00013-blue.svg)](https://arxiv.org/abs/2401.00013)
+[![Paper](https://img.shields.io/badge/full%20version-arxiv.2401.0001-blue.svg)](https://arxiv.org/abs/2401.00013)
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
-This repository provides an implementation of the HITSnDIFFS approach proposed in the ICDE 2024 paper [HITSNDIFFS: From Truth Discovery to Ability Discovery by Recovering Matrices with the Consecutive Ones Property](https://doi.org/10.1109/ICDE60146.2024.00025), [(arXiv:2401.00013 full paper)](https://arxiv.org/abs/2401.00013) as well as implementations of competitors and corresponding experiments in the paper.
+This repository provides an implementation of the HITSnDIFFS approach proposed in the ICDE 2024 paper "*HITSNDIFFS: From Truth Discovery to Ability Discovery by Recovering Matrices with the Consecutive Ones Property*" as well as implementations of competitors and corresponding experiments in the paper.
 
 **ABSTRACT**: We analyze a general problem in a crowd-sourced setting where one user asks a question (also called item) and other users return answers (also called labels) for this question. Different from existing crowdsourcing work which focuses on finding the most appropriate label for the question (the “truth”), our problem is to determine a ranking of the users based on their ability to answer questions. We call this problem “ability discovery” to emphasize the connection to and duality with the more well-studied problem of “truth discovery”.
 
@@ -19,13 +19,13 @@ To model items and their labels in a principled way, we draw upon Item Response 
 
 [Video on Youtube (15min)](https://www.youtube.com/watch?v=CLLRDWEKAUQ&list=PL_72ERGKF6DQ7dKQoBZ90WVR1ndDklOH1) 
 
-<a href="https://www.youtube.com/watch?v=CLLRDWEKAUQ&list=PL_72ERGKF6DQ7dKQoBZ90WVR1ndDklOH1"><img src="figs/HITSnDIFFs-Youtube.jpeg" alt="drawing" style="width:600px;max-width: 100%;"/></a>
+<a href="https://www.youtube.com/watch?v=CLLRDWEKAUQ&list=PL_72ERGKF6DQ7dKQoBZ90WVR1ndDklOH1"><img src="figs/HITSnDIFFs-Youtube.jpeg" alt="drawing" style="width:600px; max-width: 100%; border: 1px solid #000;"/></a>
 
 Excerpts:
 
-<img src="figs/Ability-discovery.jpeg" alt="drawing" style="width:600px;max-width: 100%;"/>
+<img src="figs/Ability-discovery.jpeg" alt="drawing" style="width:600px; max-width: 100%; border: 1px solid #000;"/>
 
-<img src="figs/HITSnDIFFs.jpeg" alt="drawing" style="width:600px;max-width: 100%;"/>
+<img src="figs/HITSnDIFFs.jpeg" alt="drawing" style="width:600px; max-width: 100%; border: 2px solid #000;"/>
 
 Citation:
 
