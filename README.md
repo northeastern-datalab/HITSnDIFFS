@@ -23,7 +23,9 @@ To model items and their labels in a principled way, we draw upon Item Response 
 
 Excerpts:
 
-<img src="figs/Ability-discovery.jpeg" alt="drawing" style="width:600px; max-width: 100%; border: 1px solid #000;"/>
+<table><tr><td>
+<img src="figs/Ability-discovery.jpeg" alt="drawing" style="width:600px; max-width: 100%;"/>
+</td></tr></table>
 
 <img src="figs/HITSnDIFFs.jpeg" alt="drawing" style="width:600px; max-width: 100%; border: 2px solid #000;"/>
 
